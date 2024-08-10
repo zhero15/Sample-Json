@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0" version="24.7.6">
   <diagram name="Page-1" id="AmvMwHv-4EXdsy28c8eH">
-    <mxGraphModel dx="277" dy="154" grid="1" gridSize="10" guides="1" tooltips="1" connect="0" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="1">
+    <mxGraphModel dx="112" dy="62" grid="1" gridSize="10" guides="1" tooltips="1" connect="0" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="1">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -44,6 +44,27 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="84" y="5" as="sourcePoint" />
             <mxPoint x="84.20000000000005" y="-15" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="x35FhpCABDtnizBDqxzs-67" value="" style="group" vertex="1" connectable="0" parent="x35FhpCABDtnizBDqxzs-18">
+          <mxGeometry x="40.5" y="-10" width="27" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="x35FhpCABDtnizBDqxzs-64" value="" style="endArrow=none;html=1;rounded=0;strokeWidth=3;strokeColor=#000000;" edge="1" parent="x35FhpCABDtnizBDqxzs-67">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="26" as="sourcePoint" />
+            <mxPoint x="25.889999999999986" y="20" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="x35FhpCABDtnizBDqxzs-65" value="" style="endArrow=none;html=1;rounded=0;strokeWidth=3;strokeColor=#000000;" edge="1" parent="x35FhpCABDtnizBDqxzs-67">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1" as="sourcePoint" />
+            <mxPoint x="1" y="20" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="x35FhpCABDtnizBDqxzs-66" value="" style="endArrow=none;html=1;rounded=0;strokeWidth=3;strokeColor=#000000;" edge="1" parent="x35FhpCABDtnizBDqxzs-67">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="12" as="sourcePoint" />
+            <mxPoint as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="x35FhpCABDtnizBDqxzs-19" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
@@ -183,7 +204,7 @@
         <mxCell id="x35FhpCABDtnizBDqxzs-54" value="" style="endArrow=none;html=1;rounded=0;strokeWidth=3;strokeColor=#FF0000;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="534" y="606" as="sourcePoint" />
-            <mxPoint x="833" y="606" as="targetPoint" />
+            <mxPoint x="840" y="606" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="x35FhpCABDtnizBDqxzs-55" value="" style="pointerEvents=1;verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;shape=mxgraph.electrical.signal_sources.protective_earth;fillColor=#d5e8d4;gradientColor=#97d077;strokeColor=#82b366;" vertex="1" parent="1">
@@ -208,6 +229,12 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="770" y="490" as="sourcePoint" />
             <mxPoint x="769.8" y="470" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="x35FhpCABDtnizBDqxzs-63" value="" style="endArrow=none;html=1;rounded=0;strokeWidth=3;strokeColor=#FF0000;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="840" y="607" as="sourcePoint" />
+            <mxPoint x="840" y="467" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
